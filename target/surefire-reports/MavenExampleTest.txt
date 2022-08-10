@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MavenExampleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.767 s <<< FAILURE! - in MavenExampleTest
+shouldRun  Time elapsed: 1.761 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <3>
+	at MavenExampleTest.shouldRun(MavenExampleTest.java:18)
+
